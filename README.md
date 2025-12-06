@@ -53,7 +53,7 @@ This repository acts as a central portfolio of all the courses I have completed,
 **Aaditya Prasad**  
 📌 Aspiring Data Analyst  
 📧 Email: aadityapd29@gmail.com  
-🔗 LinkedIn: comming soon  
+🔗 LinkedIn: https://www.linkedin.com/in/aaditya-prasad-704a54355/
 🐙 GitHub: https://github.com/aaditya-data
 
 ---
