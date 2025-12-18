@@ -21,19 +21,36 @@ It showcases my continuous learning journey and commitment to developing strong 
 ---
 
 ### ✔ Microsoft Power BI Data Analyst (PL-300)  
+- Issued by: Coursera & Microsoft
 - Skills: Power BI Desktop, DAX, Data Modeling, Reports & Dashboards  
+- *Certificate Link Coming Soon*
+
+## 🤖 Ai Enabled Certifications
+
+### ✔ IBM Generative Ai For Data Analyst Professional Certificate  
+- Issued by: Coursera & IBM  
+- Skills: Gain skills in prompt engineering, AI-assisted SQL, Excel, data storytelling, and automating data workflows for real-world analytics.
 - *Certificate Link Coming Soon*
 
 ---
 
+### ✔ Microsoft Generative Ai For Data Analyst Professional Certificate  
+- Issued by: Coursera & Microsoft
+- Hands-on skills in AI-assisted Excel, SQL, Python, dashboards, and responsible use of GenAI for business decision-making.
+- *Certificate Link Coming Soon*
+
 ## 📊 Additional Certifications
 
 ### ✔ Microsoft Excel 
-- Skills: PivotTables, Dashboards, Functions, Data Cleaning  
+- Skills: Gained hands-on Excel skills including Pivot Tables, advanced formulas, data cleaning, charts, dashboards, automation, and AI-assisted productivity. 
+- https://exam.skillcourse.in/student/view_certificate.php?uid=SC-CAD355B304
+
+### ✔ Microsoft Excel Power Query
+- Skills: Gained hands-on skills in Power Query including data cleaning, transformation, merging, appending, and automating ETL workflows in Excel.
 - *Certificate Link Coming Soon*
 
-### ✔ Microsoft SQL 
-- Skills: SELECT, JOIN, GROUP BY, CTEs, Subqueries, Window Functions  
+### ✔ Soft Skill (IBM)
+- Skills: Build strong communication, teamwork, problem-solving, and professional workplace skills for career success.
 - *Certificate Link Coming Soon*
 
 ---
