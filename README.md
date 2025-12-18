@@ -36,7 +36,7 @@ It showcases my continuous learning journey and commitment to developing strong 
 
 ### ✔ Microsoft Generative Ai For Data Analyst Professional Certificate  
 - Issued by: Coursera & Microsoft
-- Hands-on skills in AI-assisted Excel, SQL, Python, dashboards, and responsible use of GenAI for business decision-making.
+- Skills: Hands-on skills in AI-assisted Excel, SQL, Python, dashboards, and responsible use of GenAI for business decision-making.
 - *Certificate Link Coming Soon*
 
 ## 📊 Additional Certifications
