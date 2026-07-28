@@ -32,16 +32,6 @@ It showcases my continuous learning journey and commitment to developing strong 
 - Skills: Gain skills in prompt engineering, AI-assisted SQL, Excel, data storytelling, and automating data workflows for real-world analytics.
 - *Certificate Link Coming Soon*
 
-## 📊 Additional Certifications
-
-### ✔ Microsoft Excel 
-- Skills: Gained ability to organize, analyze, and visualize data efficiently using Microsoft Excel.. 
-- *Certificate Link Coming Soon*
-
-### ✔ SQL
-- Skills: Gained ability to query, analyze, and extract meaningful insights from data using SQL.
-- *Certificate Link Coming Soon*
-
 ---
 
 ## 🎯 Why This Repository Exists
